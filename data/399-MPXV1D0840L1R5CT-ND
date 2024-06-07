@@ -1,0 +1,21 @@
+Packaging,7,Cut Tape (CT),2
+Tolerance,3,±20%,1900
+Features,5,-,1
+Package / Case,16,Nonstandard,380434
+Size / Dimension,46,0.341" L x 0.315" W (8.65mm x 8.00mm),19667
+Mounting Type,69,Surface Mount,409393
+Shielding,80,Shielded,402031
+Type,183,-,1
+Operating Temperature,252,-55°C ~ 155°C,242934
+DC Resistance (DCR),314,6.8mOhm Max,254499
+Q @ Freq,705,-,1
+Frequency - Self Resonant,706,29MHz,167459
+Ratings,707,AEC-Q200,312105
+Current - Saturation (Isat),1219,19A,119413
+Material - Core,1221,Metal Composite,374907
+Inductance Frequency - Test,1222,100 kHz,100 kHz
+Supplier Device Package,1291,-,1
+Height - Seated (Max),1500,0.157" (4.00mm),12140
+Part Status,1989,Active,0
+Inductance,2087,1.5 µH,1.5 µH
+Current Rating (Amps),2088,16.2 A,16.2 A

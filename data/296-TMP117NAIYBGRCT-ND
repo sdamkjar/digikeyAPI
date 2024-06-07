@@ -1,0 +1,15 @@
+Packaging,7,Cut Tape (CT),2
+Features,5,Standby Mode, Shutdown Mode, One-Shot, Programmable Limit,408018
+Package / Case,16,6-UFBGA, DSBGA,267412
+Output Type,41,I²C/SMBus,357317
+Mounting Type,69,Surface Mount,409393
+Operating Temperature,252,-55°C ~ 150°C (TA),242932
+Voltage - Supply,276,1.8V ~ 5.5V,61334
+Sensor Type,345,Digital, Local,338875
+Resolution,688,16 b,103905
+Supplier Device Package,1291,6-DSBGA (1.49x0.95),718673
+Test Condition,1602,-40°C ~ 100°C (-55°C ~ 150°C),212427
+Accuracy - Highest (Lowest),1846,±0.2°C (±0.3°C),827
+Sensing Temperature - Local,1847,-55°C ~ 150°C,242931
+Sensing Temperature - Remote,1848,-,1
+Part Status,1989,Active,0

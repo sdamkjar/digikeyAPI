@@ -1,0 +1,12 @@
+Packaging,7,Cut Tape (CT),2
+Package / Case,16,24-VFQFN Exposed Pad,155312
+Mounting Type,69,Surface Mount,409393
+Circuit,130,1 x 8:1,40392
+Type,183,Bus Switch,323822
+Operating Temperature,252,-40°C ~ 85°C,212617
+Voltage - Supply,276,1.65V ~ 5.25V,56915
+Independent Circuits,591,1,1
+Current - Output High, Low,592,-,1
+Voltage Supply Source,593,Single Supply,403070
+Supplier Device Package,1291,24-VQFN (4x4),155322
+Part Status,1989,Active,0

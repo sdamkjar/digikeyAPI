@@ -1,0 +1,16 @@
+Packaging,7,Cut Tape (CT),2
+Tolerance,3,±0.05%,696
+Package / Case,16,SOT-23-6,405431
+Temperature Coefficient,17,12ppm/°C,87557
+Output Type,41,Fixed,347431
+Mounting Type,69,Surface Mount,409393
+Voltage - Input,127,1.85V ~ 6V,60442
+Reference Type,245,Series,401373
+Operating Temperature,252,-40°C ~ 125°C (TA),212479
+Current - Supply,449,2.6µA,132559
+Supplier Device Package,1291,SOT-23-6,405431
+Voltage - Output (Min/Fixed),1779,1.6V,57684
+Noise - 0.1Hz to 10Hz,1781,3.8ppmp-p,727475
+Noise - 10Hz to 10kHz,1782,0.7ppmrms,708768
+Part Status,1989,Active,0
+Current - Output,2114,10 mA,10 mA

@@ -1,0 +1,14 @@
+Packaging,7,Cut Tape (CT),2
+Package / Case,16,0402 (1006 Metric),39162
+Mounting Type,69,Surface Mount,409393
+Speed,143,Standard Recovery >500ns, > 200mA (Io),407971
+Reverse Recovery Time (trr),552,3 µs,3 µs
+Technology,570,Standard,407938
+Capacitance @ Vr, F,718,1.5pF @ 0V, 1MHz,55521
+Current - Average Rectified (Io),914,215mA,145788
+Supplier Device Package,1291,X2-DFN1006-2,422352
+Operating Temperature,1686,-55°C ~ 150°C (TJ),242931
+Part Status,1989,Active,0
+Voltage - DC Reverse (Vr) (Max),2071,85 V,85 V
+Voltage - Forward (Vf) (Max) @ If,2261,1.25 V @ 150 mA,1.25 V @ 150 mA
+Current - Reverse Leakage @ Vr,2269,5 nA @ 75 V,5 nA @ 75 V

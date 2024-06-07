@@ -1,0 +1,17 @@
+Packaging,7,Cut Tape (CT),2
+Tolerance,3,±20%,1900
+Lead Style,4,-,1
+Features,5,-,1
+Voltage - Rated,14,16V,108742
+Package / Case,16,1206 (3216 Metric),83711
+Temperature Coefficient,17,X7R,422415
+Size / Dimension,46,0.126" L x 0.063" W (3.20mm x 1.60mm),10933
+Mounting Type,69,Surface Mount, MLCC,409416
+Operating Temperature,252,-55°C ~ 125°C,242918
+Applications,405,SMPS Filtering,404395
+Lead Spacing,508,-,1
+Ratings,707,-,1
+Height - Seated (Max),1500,-,1
+Thickness (Max),1501,0.071" (1.80mm),8192
+Part Status,1989,Not For New Designs,7
+Capacitance,2049,22 µF,22 µF

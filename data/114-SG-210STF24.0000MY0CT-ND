@@ -1,0 +1,19 @@
+Packaging,7,Cut Tape (CT),2
+Package / Case,16,4-SMD, No Lead,228342
+Size / Dimension,46,0.098" L x 0.079" W (2.50mm x 2.00mm),9473
+Mounting Type,69,Surface Mount,409393
+Output,71,CMOS,331587
+Function,110,Standby (Power Down),408014
+Type,183,XO (Standard),422799
+Operating Temperature,252,-40°C ~ 105°C,212434
+Frequency Stability,253,±50ppm,2614
+Voltage - Supply,276,1.6V ~ 3.63V,57802
+Ratings,707,-,1
+Spread Spectrum Bandwidth,1111,-,1
+Current - Supply (Max),1121,2.2mA,126809
+Current - Supply (Disable) (Max),1354,2.7µA,133778
+Height - Seated (Max),1500,0.035" (0.90mm),6031
+Part Status,1989,Active,0
+Absolute Pull Range (APR),2092,-,1
+Frequency,2150,24 MHz,24 MHz
+Base Resonator,2338,Crystal,335090

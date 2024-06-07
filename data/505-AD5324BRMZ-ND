@@ -1,0 +1,18 @@
+Packaging,7,Tube,6
+Package / Case,16,10-TFSOP, 10-MSOP (0.118", 3.00mm Width),74447
+Output Type,41,Voltage - Buffered,420138
+Mounting Type,69,Surface Mount,409393
+Number of Bits,153,12,80383
+Data Interface,243,SPI, DSP,406134
+Reference Type,245,External,345656
+Operating Temperature,252,-40°C ~ 105°C,212434
+Voltage - Supply, Analog,346,2.5V ~ 5.5V,132272
+Voltage - Supply, Digital,347,2.5V ~ 5.5V,132272
+Settling Time,997,10µs,67248
+Supplier Device Package,1291,10-MSOP,73980
+Architecture,1523,String DAC,409064
+Number of D/A Converters,1973,4,203167
+INL/DNL (LSB),1974,±2, ±0.2,1691
+Differential Output,1975,No,380240
+Part Status,1989,Active,0
+Digi-Key Programmable,2697,Not Verified,750491

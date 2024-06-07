@@ -1,0 +1,31 @@
+Packaging,7,Bulk,3
+Features,5,-,1
+Connector Type,28,Receptacle,392960
+Voltage Rating,63,-,1
+Current Rating (Amps),66,4.7A per Contact,699074
+Mounting Type,69,Through Hole,411897
+Number of Positions,88,52,239823
+Style,91,Board to Board or Cable,321618
+Operating Temperature,252,-55°C ~ 125°C,242918
+Applications,405,-,1
+Contact Type,512,Forked,349028
+Fastening Type,518,Push-Pull,390971
+Number of Positions Loaded,564,All,312745
+Termination,589,Solder,405002
+Ingress Protection,697,-,1
+Material Flammability Rating,903,UL94 V-0,417627
+Contact Material,1084,Phosphor Bronze,386549
+Mated Stacking Heights,1263,-,1
+Insulation Color,1693,Black,319929
+Pitch - Mating,1790,0.100" (2.54mm),9726
+Contact Finish - Mating,1791,Gold,350796
+Contact Finish Thickness - Mating,1792,20.0µin (0.51µm),138327
+Contact Finish - Post,1795,Gold,350796
+Contact Finish Thickness - Post,1796,3.00µin (0.076µm),170187
+Part Status,1989,Active,0
+Contact Shape,2011,Square,406666
+Contact Length - Post,2012,0.394" (10.00mm),21438
+Insulation Height,2018,0.335" (8.51mm),19389
+Insulation Material,2023,Liquid Crystal Polymer (LCP),365208
+Row Spacing - Mating,2024,0.100" (2.54mm),9726
+Number of Rows,2172,2,2

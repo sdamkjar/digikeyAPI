@@ -1,0 +1,18 @@
+Packaging,7,Cut Tape (CT),2
+Resistance (Ohms),1,0.0,3773
+Tolerance,3,Jumper,362150
+Power Per Element,8,62.5mW,258627
+Circuit Type,9,Isolated,361521
+Number of Pins,10,4,4
+Package / Case,16,0404 (1010 Metric), Convex,39195
+Temperature Coefficient,17,-,1
+Size / Dimension,46,0.039" L x 0.039" W (1.00mm x 1.00mm),6320
+Mounting Type,69,Surface Mount,409393
+Operating Temperature,252,-55°C ~ 125°C,242918
+Applications,405,Automotive AEC-Q200,316914
+Supplier Device Package,1291,0404,39192
+Height - Seated (Max),1500,0.018" (0.45mm),5027
+Part Status,1989,Active,0
+Resistor Matching Ratio,2293,-,1
+Resistor-Ratio-Drift,2294,-,1
+Number of Resistors,2314,2,121326

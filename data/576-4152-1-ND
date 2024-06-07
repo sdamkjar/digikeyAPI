@@ -1,0 +1,16 @@
+Packaging,7,Cut Tape (CT),2
+Package / Case,16,4-UDFN Exposed Pad, 4-TMLF®,228478
+Mounting Type,69,Surface Mount,409393
+Operating Temperature,252,-40°C ~ 125°C (TJ),212481
+Voltage - Supply,276,2.7V ~ 9V,134990
+Input Type,474,Non-Inverting,380373
+Supplier Device Package,1291,4-TQFN (1.2x1.2),228454
+Rise / Fall Time (Typ),1745,-,1
+Channel Type,1762,Single,402959
+Driven Configuration,1930,High-Side,354848
+Number of Drivers,1931,1,1
+Gate Type,1932,N-Channel MOSFET,379003
+Logic Voltage - VIL, VIH,1933,0.8V, 3V,36726
+Current - Peak Output (Source, Sink),1934,-,1
+Part Status,1989,Active,0
+Digi-Key Programmable,2697,Not Verified,750491

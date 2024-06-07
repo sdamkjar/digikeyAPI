@@ -1,0 +1,20 @@
+Packaging,7,Tray,17
+Package / Case,16,144-LQFP,95610
+Mounting Type,69,Surface Mount,409393
+Speed,143,160MHz,105872
+Program Memory Size,155,1.25MB (1.25M x 8),47380
+RAM Size,156,192K x 8,118502
+Operating Temperature,252,-40°C ~ 125°C (TA),212479
+Oscillator Type,283,External,345656
+Program Memory Type,290,FLASH,347758
+EEPROM Size,291,64K x 8,261535
+Core Processor,506,ARM® Cortex®-R4F,314905
+Data Converters,519,A/D 24x12b,306185
+Core Size,689,16/32-Bit,105357
+Voltage - Supply (Vcc/Vdd),1112,1.14V ~ 3.6V,44505
+Connectivity,1113,CANbus, EBI/EMI, I²C, LINbus, MibSPI, SCI, SPI, UART/USART,326093
+Peripherals,1114,DMA, POR, PWM, WDT,339871
+Supplier Device Package,1291,144-LQFP (20x20),95613
+Part Status,1989,Active,0
+Number of I/O,2208,64,64
+Digi-Key Programmable,2697,Not Verified,750491

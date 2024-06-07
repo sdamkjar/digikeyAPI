@@ -1,0 +1,18 @@
+Packaging,7,Cut Tape (CT),2
+Package / Case,16,22-PowerLFDFN,149388
+Output Type,41,Adjustable,310372
+Mounting Type,69,Surface Mount,409393
+Number of Outputs,87,1,39665
+Function,110,Step-Down,408308
+Current - Output,129,14A,96661
+Operating Temperature,252,-40°C ~ 85°C (TA),212621
+Output Configuration,255,Positive,389019
+Frequency - Switching,384,250kHz ~ 1MHz,156893
+Voltage - Input (Max),573,22V,149434
+Topology,1098,Buck,323617
+Supplier Device Package,1291,22-LSON-CLIP (6x5),149157
+Synchronous Rectifier,1320,Yes,423329
+Voltage - Output (Max),1429,5.5V,233086
+Voltage - Input (Min),1471,1.5V,55539
+Voltage - Output (Min/Fixed),1779,0.6V,31294
+Part Status,1989,Active,0

@@ -1,0 +1,34 @@
+Packaging,7,Strip,250
+Features,5,Board Lock,321421
+Connector Type,28,Header,353507
+Voltage Rating,63,250V,157291
+Current Rating (Amps),66,2A,167594
+Mounting Type,69,Through Hole, Right Angle,411921
+Number of Positions,88,6,249730
+Number of Rows,90,2,121326
+Style,91,Board to Board or Cable,321618
+Operating Temperature,252,-65°C ~ 150°C,262181
+Applications,405,-,1
+Contact Type,512,Male Pin,371353
+Fastening Type,518,Latch Lock,363669
+Number of Positions Loaded,564,All,312745
+Termination,589,Solder,405002
+Ingress Protection,697,-,1
+Material Flammability Rating,903,UL94 V-0,417627
+Contact Material,1084,Phosphor Bronze,386549
+Mated Stacking Heights,1263,-,1
+Insulation Color,1693,Green,351158
+Pitch - Mating,1790,0.049" (1.25mm),6848
+Contact Finish - Mating,1791,Gold,350796
+Contact Finish Thickness - Mating,1792,8.00µin (0.203µm),282118
+Contact Finish - Post,1795,-,1
+Contact Finish Thickness - Post,1796,-,1
+Part Status,1989,Active,0
+Contact Shape,2011,Circular,329807
+Contact Length - Post,2012,0.130" (3.30mm),11164
+Insulation Height,2018,0.219" (5.56mm),14790
+Shrouding,2021,Shrouded - 4 Wall,402177
+Overall Contact Length,2022,-,1
+Insulation Material,2023,Polyamide (PA4T), Nylon 4T, Glass Filled, Halogen Free,388397
+Row Spacing - Mating,2024,0.049" (1.25mm),6848
+Contact Length - Mating,2025,-,1

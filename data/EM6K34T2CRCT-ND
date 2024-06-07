@@ -1,0 +1,16 @@
+Packaging,7,Cut Tape (CT),2
+Package / Case,16,SOT-563, SOT-666,405542
+Mounting Type,69,Surface Mount,409393
+Configuration,207,2 N-Channel (Dual),121938
+Operating Temperature,252,150°C (TJ),99688
+Technology,570,MOSFET (Metal Oxide),377049
+Power - Max,588,120mW,84204
+Drain to Source Voltage (Vdss),607,50V,238738
+Current - Continuous Drain (Id) @ 25°C,608,200mA,140417
+Input Capacitance (Ciss) (Max) @ Vds,611,26pF @ 10V,161372
+Rds On (Max) @ Id, Vgs,612,2.2Ohm @ 200mA, 4.5V,126917
+Gate Charge (Qg) (Max) @ Vgs,613,-,1
+FET Feature,959,Logic Level Gate, 0.9V Drive,366723
+Vgs(th) (Max) @ Id,1236,800mV @ 1mA,286432
+Supplier Device Package,1291,EMT6,343991
+Part Status,1989,Active,0

@@ -1,0 +1,18 @@
+Packaging,7,Tube,6
+Package / Case,16,28-WFQFN Exposed Pad,165931
+Output Type,41,Adjustable,310372
+Mounting Type,69,Surface Mount,409393
+Number of Outputs,87,1,39665
+Function,110,Step-Up/Step-Down,408393
+Current - Output,129,5A,247706
+Operating Temperature,252,-40°C ~ 125°C (TA),212479
+Output Configuration,255,Positive,389019
+Frequency - Switching,384,400kHz ~ 2MHz,213236
+Voltage - Input (Max),573,18V,116509
+Topology,1098,Buck-Boost,323652
+Supplier Device Package,1291,28-QFN (4x5),165749
+Synchronous Rectifier,1320,Yes,423329
+Voltage - Output (Max),1429,18V,116509
+Voltage - Input (Min),1471,2.5V,132007
+Voltage - Output (Min/Fixed),1779,0.8V,36543
+Part Status,1989,Active,0

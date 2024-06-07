@@ -1,0 +1,16 @@
+Packaging,7,Cut Tape (CT),2
+Power (Watts),2,0.25W, 1/4W,16543
+Tolerance,3,±0.5%,976
+Features,5,Automotive AEC-Q200, Current Sense, Moisture Resistant, Pulse Withstanding,316918
+Package / Case,16,0805 (2012 Metric),39329
+Temperature Coefficient,17,±75ppm/°C,2831
+Size / Dimension,46,0.080" L x 0.050" W (2.03mm x 1.27mm),8732
+Composition,174,Metal Element,374912
+Operating Temperature,252,-65°C ~ 170°C,262188
+Ratings,707,AEC-Q200,312105
+Number of Terminations,1127,2,2
+Supplier Device Package,1291,0805,39328
+Height - Seated (Max),1500,0.023" (0.58mm),5345
+Failure Rate,1531,-,1
+Part Status,1989,Active,0
+Resistance,2085,100 mOhms,100 mOhms

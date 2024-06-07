@@ -1,0 +1,13 @@
+Packaging,7,Cut Tape (CT),2
+Package / Case,16,6-TSSOP, SC-88, SOT-363,267377
+Output Type,41,Push-Pull,390971
+Mounting Type,69,Surface Mount,409393
+Number of Elements,105,2,2
+Logic Type,247,Buffer, Non-Inverting,323685
+Operating Temperature,252,-55°C ~ 125°C (TA),242919
+Voltage - Supply,276,1.65V ~ 5.5V,56916
+Input Type,474,Schmitt Trigger,400368
+Number of Bits per Element,547,1,39665
+Current - Output High, Low,592,32mA, 32mA,188508
+Supplier Device Package,1291,SC-70-6,400206
+Part Status,1989,Active,0

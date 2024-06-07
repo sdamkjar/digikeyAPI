@@ -1,0 +1,11 @@
+Packaging,7,Cut Tape (CT),2
+Package / Case,16,10-TFSOP, 10-MSOP (0.118", 3.00mm Width),74447
+Sensing Method,43,High/Low-Side,354842
+Mounting Type,69,Surface Mount,409393
+Function,110,Current Monitor,336073
+Voltage - Input,127,0V ~ 36V,39634
+Current - Output,129,10mA,73564
+Accuracy,222,±0.02%,667
+Operating Temperature,252,-40°C ~ 125°C,212478
+Supplier Device Package,1291,10-VSSOP,74705
+Part Status,1989,Active,0

@@ -1,0 +1,12 @@
+Packaging,7,Cut Tape (CT),2
+Package / Case,16,SOT-23-8,405438
+Mounting Type,69,Surface Mount,409393
+Type,183,Transceiver,415534
+Operating Temperature,252,-40°C ~ 125°C,212478
+Voltage - Supply,276,3V ~ 3.6V,202821
+Number of Drivers/Receivers,404,1/1,63111
+Data Rate,448,1Mbps,120547
+Protocol,578,CANbus,325925
+Supplier Device Package,1291,SOT-23-8,405438
+Duplex,1684,-,1
+Part Status,1989,Active,0

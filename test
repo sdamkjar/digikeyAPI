@@ -1,0 +1,4 @@
+import csv
+with open('parts.csv', newline='') as csvfile:
+    for row in csv.reader(csvfile):
+        print(row[0])

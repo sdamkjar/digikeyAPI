@@ -1,0 +1,18 @@
+Packaging,7,Cut Tape (CT),2
+Package / Case,16,8-PowerVDFN,294810
+Mounting Type,69,Surface Mount,409393
+Operating Temperature,252,175°C,111367
+Technology,570,MOSFET (Metal Oxide),377049
+FET Type,606,N-Channel,378999
+Current - Continuous Drain (Id) @ 25°C,608,80A (Tc),287062
+Rds On (Max) @ Id, Vgs,612,1.6mOhm @ 40A, 10V,57608
+FET Feature,959,-,1
+Power Dissipation (Max),1174,104W (Tc),70924
+Vgs(th) (Max) @ Id,1236,2.1V @ 300µA,125307
+Supplier Device Package,1291,8-TSON Advance (3.1x3.1),509320
+Part Status,1989,Active,0
+Drive Voltage (Max Rds On, Min Rds On),1993,4.5V, 10V,208752
+Vgs (Max),1994,±20V,1945
+Drain to Source Voltage (Vdss),2068,30 V,30 V
+Gate Charge (Qg) (Max) @ Vgs,2262,41 nC @ 10 V,41 nC @ 10 V
+Input Capacitance (Ciss) (Max) @ Vds,2263,3900 pF @ 15 V,3900 pF @ 15 V

@@ -1,0 +1,16 @@
+Packaging,7,Cut Tape (CT),2
+Features,5,Alarm, Battery Switch, Clock Output Hz-MHz, Event Input, Temperature Alarm, Timer, Trickle Charge with Charge Pump,685730
+Package / Case,16,8-WCDFN,295378
+Mounting Type,69,Surface Mount,409393
+Memory Size,142,16B, 32B,685727
+Interface,154,I²C, 2-Wire Serial,356951
+Type,183,Clock/Calendar,331362
+Operating Temperature,252,-40°C ~ 105°C (TA),212437
+Voltage - Supply,276,1.3V ~ 5.5V,51233
+Time Format,341,HH:MM:SS:100th (24 hr),685729
+Date Format,342,YY-MM-DD-dd,423358
+Supplier Device Package,1291,8-SON (3.2x1.5),294966
+Voltage - Supply, Battery,1446,-,1
+Current - Timekeeping (Max),1754,210nA @ 3V,685728
+Part Status,1989,Active,0
+Digi-Key Programmable,2697,Not Verified,750491
